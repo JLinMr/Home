@@ -7,17 +7,6 @@
 
 - [demo](https://www.bsgun.cn)
 
-### 功能
-
-- [x] 载入动画
-- [x] 站点简介
-- [x] Hitokoto 一言
-- [x] 日期及时间
-- [x] 实时天气
-- [x] 时光进度条
-- [x] 音乐播放器
-- [x] 移动端适配
-
 ### 部署
 
 * **安装** [node.js](https://nodejs.org/zh-cn/) **环境**
